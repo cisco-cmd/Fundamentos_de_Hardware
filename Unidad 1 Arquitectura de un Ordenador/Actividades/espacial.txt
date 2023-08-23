@@ -1,0 +1,2 @@
+En Localidad espacial, es probable que pronto se ejecuten instrucciones cercanas a instrucciones ejecutadas recientemente. Por ejemplo: elementos de datos (donde cada vez se accede a un elemento diferente de un proceso que está en ejecución).
+En Localidad temporal, es probable que una instrucción ejecutada recientemente se vuelva a ejecutar muy pronto. Por ejemplo: serían elementos de datos a los que se accede en bucles (donde se accede a los mismos elementos de datos varias veces).
